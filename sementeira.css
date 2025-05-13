@@ -1,0 +1,35 @@
+h1{text-align: center;
+font-family: impact;
+}
+header{background-color: rgb(173, 244, 247);}
+h5{text-align: center}
+footer{background-color: black;}
+p{color: aliceblue  ;}
+p{text-align: center;
+color: white;}
+   
+
+nav{text-align: center;}
+   a{text-decoration: none;}
+   #pdotexto{color: black;
+text-align: left;
+padding: 30px 50px;
+}
+*{
+   margin: 0;
+   padding: 0;
+}
+div{
+   background-color: rgb(173, 244, 247);
+   width: 400px;
+   height: 585px;
+   margin: 50px auto;
+ text-align: center;
+}
+ul{display: inline-block;}
+#h2dasementeira{
+   border: 10px solid; color: rgb(0, 0, 0);
+   border-radius: 80px;
+}
+
+h2{text-align: center;}
